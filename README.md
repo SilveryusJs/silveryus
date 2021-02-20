@@ -5,7 +5,7 @@
   <a href="https://github.com/SilveryusJs" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <br><img src = "https://img.shields.io/github/followers/Reyesee?color=Green&label=Takip%C3%A7i&logo=Github%20takip%C3%A7isi&style=for-the-badge">
 <img src = "https://img.shields.io/github/stars/SilveryusJs?label=Y%C4%B1ld%C4%B1z&style=for-the-badge"></br>
-<br><a href = "https://discord.gg/JdQGJ9rJH4" target"blank_"><img src = "https://img.shields.io/discord/616170912160677888?label=Discord%20Sunucum&style=for-the-badge"></br>
+<br><a href = "https://discord.gg/FTkBVHfeYk" target"blank_"><img src = "https://img.shields.io/discord/616170912160677888?label=Discord%20Sunucum&style=for-the-badge"></br>
 </p>
 
 <p align="center">
